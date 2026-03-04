@@ -514,7 +514,7 @@
     <div class="dot r"></div>
     <div class="dot y"></div>
     <div class="dot g"></div>
-    <div class="url-bar">github.com / YOUR_GITHUB_USERNAME</div>
+    <div class="url-bar">github.com / NotaTraitor</div>
   </div>
 
   <div class="profile-content">
@@ -522,7 +522,7 @@
     <!-- Header -->
     <div class="wave-header">
       <div class="wave-top"></div>
-      <div class="header-name">YOUR_NAME</div>
+      <div class="header-name">Magnus</div>
       <div class="header-sub">Full-Stack Developer &nbsp;|&nbsp; Python · TypeScript</div>
       <div class="wave-bottom"></div>
     </div>
@@ -539,7 +539,7 @@
       <div class="section-title">⚡ About Me</div>
       <div class="code-block">
         <div><span class="kw">class</span> <span class="cls">Developer</span>:</div>
-        <div>&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">name</span>       <span class="comment">=</span> <span class="str">"YOUR_NAME"</span></div>
+        <div>&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">name</span>       <span class="comment">=</span> <span class="str">"Magnus"</span></div>
         <div>&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">role</span>       <span class="comment">=</span> <span class="str">"Full-Stack Developer"</span></div>
         <div>&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">languages</span>  <span class="comment">=</span> <span class="val">["Python", "TypeScript", "JavaScript"]</span></div>
         <div>&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">interests</span>  <span class="comment">=</span> <span class="val">["Open Source", "Dev Tools", "Clean Code"]</span></div>
@@ -626,9 +626,9 @@
 <div class="instructions">
   <div class="inst-title">🚀 How to activate your profile</div>
   <ul class="steps">
-    <li><span class="step-num">1</span><span>Create a new GitHub repo named exactly <span class="highlight">YOUR_GITHUB_USERNAME</span> (same as your username). Make it public and check <span class="cyan">"Add a README file"</span>.</span></li>
+    <li><span class="step-num">1</span><span>Create a new GitHub repo named exactly <span class="highlight">NotaTraitor</span> (same as your username). Make it public and check <span class="cyan">"Add a README file"</span>.</span></li>
     <li><span class="step-num">2</span><span>Download the <span class="highlight">README.md</span> file above and paste its contents into the repo's README editor.</span></li>
-    <li><span class="step-num">3</span><span>Replace every <span class="cyan">YOUR_GITHUB_USERNAME</span>, <span class="cyan">YOUR_NAME</span>, <span class="cyan">YOUR_EMAIL</span>, etc. with your real info.</span></li>
+    <li><span class="step-num">3</span><span>Replace every <span class="cyan">NotaTraitor</span>, <span class="cyan">Magnus</span>, <span class="cyan">Magnussteenholmjensen@gmail.com</span>, etc. with your real info.</span></li>
     <li><span class="step-num">4</span><span>Commit the file — GitHub will instantly show your profile README on your main page. <span class="highlight">Done!</span> ⚡</span></li>
   </ul>
 </div>
